@@ -45,8 +45,6 @@ Revenue = Quantity × UnitPrice
 - Applied window functions (`LAG`) for advanced time analysis.
 - Structured queries for clarity and better performance.
 
----
-
 ## Outcome
 - Analyzed monthly revenue and order volume trends.
 - Identified peak sales months.
