@@ -9,7 +9,6 @@
 - SQL (Aggregation, Window Functions, Filtering)
 
 ## SQL Operations
-
 ### 1. Basic Queries
 - Displayed all sales records using `SELECT *`.
 - Checked total number of records using `COUNT(*)`.
